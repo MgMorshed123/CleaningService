@@ -43,18 +43,9 @@ CleanerGuy is not just a cleaning service; it's a Services and Reviews Website t
 
 To experience the CleanerGuy platform, visit [CleanerGuy](#) and explore a new era of home cleaning services.
 
-## Contributors
 
-- [Your Name]
-- [Additional Contributors]
 
 ## License
 
 This project is licensed under the [Your License] - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- [Acknowledgment 1]
-- [Acknowledgment 2]
-
-Thank you for choosing CleanerGuy - where cleanliness meets innovation!
